@@ -1,13 +1,12 @@
-## Hi there 👋
-<!-- Profile Header Image (optional) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B;I'm+Nishanth+Sherugar;Passionate+Computer+Science+Engineer" alt="Typing SVG" />
 </p>
 
----
+
 
 ## 👋 Hi there, I'm **Nishanth Sherugar**  
 🎓 Enthusiastic **Computer Science Graduate** | 💻 Passionate Developer | 🌐 Open Source Contributor
+
 
 ---
 
@@ -41,7 +40,7 @@
 ### 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-sherugar/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nishanthsherugar)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nishanthn99)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nishanthsherugar@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nishanth_sherugar/)
 
@@ -50,8 +49,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanthsherugar&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthsherugar&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nishanthn99&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthn99&layout=compact&theme=radical" height="180"/>
 </p>
 
 ---

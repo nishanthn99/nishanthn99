@@ -92,7 +92,7 @@ I'm especially interested in **backend engineering, full-stack development, clou
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c" alt="Java, Python, TypeScript, JavaScript, and C" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,c" alt="Java, Python, TypeScript, JavaScript, and C" />
 
 **Frameworks & product development**
 

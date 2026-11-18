@@ -5,11 +5,11 @@
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:202622,48:35463B,100:C08A62&height=220&section=header&text=Nishanth%20Sherugar&fontSize=46&fontColor=F6F1E8&fontAlignY=38&desc=Software%20Developer%20%7C%20Curious%20Builder&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Nishanth Sherugar — Software Developer and Curious Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:202622,48:35463B,100:C08A62&height=220&section=header&text=Nishanth%20Sherugar&fontSize=46&fontColor=F6F1E8&fontAlignY=38&desc=Software%20Developer%20%7C%20Curious%20Builder&descSize=16&descAlignY=58&animation=twinkling" width="100%" alt="Nishanth Sherugar — Software Developer and Curious Builder" />
 
   <h3>Engineer by curiosity. Builder by habit.</h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=C08A62&center=true&vCenter=true&width=760&lines=Turning+curiosity+into+code.;Building+useful+things%2C+one+commit+at+a+time.;Exploring+backend%2C+cloud%2C+and+AI." alt="Turning curiosity into code" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2400&pause=650&color=D8B89A&cursor=true&cursorColor=C08A62&center=true&vCenter=true&width=780&height=48&lines=Turning+curiosity+into+code.;Designing+systems+that+make+work+flow.;Building+open-source+tools+and+useful+products.;Exploring+backend%2C+cloud%2C+and+AI.;Learning+something+new+with+every+commit." alt="Turning curiosity into code" />
 
   <br />
 
@@ -123,6 +123,20 @@ The best ideas often come from being curious outside your usual field.
 
 </div>
 
+## A little motion from my contributions
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishanthn99/nishanthn99/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishanthn99/nishanthn99/output/github-snake.svg" />
+    <img alt="An animated snake travelling across my GitHub contribution graph" src="https://raw.githubusercontent.com/nishanthn99/nishanthn99/output/github-snake.svg" width="100%" />
+  </picture>
+
+  <sub>My contribution calendar, turned into a little animation. Refreshed automatically every day.</sub>
+
+</div>
+
 ---
 
 <div align="center">
@@ -144,6 +158,6 @@ The best ideas often come from being curious outside your usual field.
 
   <br /><br />
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C08A62,52:35463B,100:202622&height=110&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C08A62,52:35463B,100:202622&height=125&section=footer&text=STAY%20CURIOUS&fontSize=22&fontColor=F6F1E8&fontAlignY=58&animation=twinkling" width="100%" alt="" />
 
 </div>

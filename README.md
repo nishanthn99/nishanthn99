@@ -123,19 +123,6 @@ The best ideas often come from being curious outside your usual field.
 
 </div>
 
-## A little motion from my contributions
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishanthn99/nishanthn99/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishanthn99/nishanthn99/output/github-snake.svg" />
-    <img alt="An animated snake travelling across my GitHub contribution graph" src="https://raw.githubusercontent.com/nishanthn99/nishanthn99/output/github-snake.svg" width="100%" />
-  </picture>
-
-  <sub>My contribution calendar, turned into a little animation. Refreshed automatically every day.</sub>
-
-</div>
 
 ---
 

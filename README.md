@@ -103,7 +103,7 @@ I believe good engineering is a balance of **clear thinking, reliable systems, a
       <p><em>Bringing intelligence into repetitive email workflows.</em></p>
       <p>An AI-assisted email automation prototype exploring Gmail OAuth, contextual email understanding, response drafting, and background processing with a Redis-backed queue.</p>
       <p><a href="https://github.com/nishanthn99/ReachInboxAI"><img src="https://img.shields.io/badge/Explore%20the%20project-C08A62?style=flat-square&logo=github&logoColor=white" alt="Explore ReachInboxAI" /></a></p>
-      <sub>Node.js · TypeScript · Express · BullMQ · Redis · OpenAI · Google APIs</sub>
+      <sub>Node.js · Express · BullMQ · Redis · OpenAI · Google APIs</sub>
     </td>
     <td width="50%" valign="top">
       <p><strong>06 · PERSONAL / FRONTEND</strong></p>

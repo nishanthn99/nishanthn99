@@ -1,11 +1,11 @@
 <!--
   Nishanth Sherugar | GitHub profile
-  Theme: midnight green, warm sand, and a little curiosity.
+  Visual direction: midnight green, warm sand, and copper.
 -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:202622,48:35463B,100:C08A62&height=220&section=header&text=Nishanth%20Sherugar&fontSize=46&fontColor=F6F1E8&fontAlignY=38&desc=Software%20Developer%20%7C%20Curious%20Builder&descSize=16&descAlignY=58&animation=twinkling" width="100%" alt="Nishanth Sherugar — Software Developer and Curious Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:202622,48:35463B,100:C08A62&height=225&section=header&text=Nishanth%20Sherugar&fontSize=46&fontColor=F6F1E8&fontAlignY=38&desc=Software%20Developer%20%7C%20Curious%20Builder&descSize=16&descAlignY=58&animation=twinkling" width="100%" alt="Nishanth Sherugar — Software Developer and Curious Builder" />
 
   <h3>Engineer by curiosity. Builder by habit.</h3>
 
@@ -26,65 +26,107 @@
 
 ---
 
-## The person behind the commits
+## A little about me
 
-Hey, I'm **Nishanth** — a Computer Science graduate who enjoys taking an idea apart, understanding the problem beneath it, and turning it into something useful.
+Hey, I'm **Nishanth** — a Computer Science graduate who enjoys understanding how things work, finding ways to make them better, and turning ideas into useful software.
 
-I'm especially interested in **backend engineering, full-stack development, cloud technologies, and AI**. I like the architecture behind a product just as much as the experience people have using it. For me, the fun is in connecting those two worlds.
+My interests sit at the intersection of **backend engineering, full-stack development, cloud technologies, and AI**. I enjoy designing the system behind a product just as much as shaping the experience people have using it.
 
-> **The question I keep coming back to:** How can we make complex things feel simple?
+I believe good engineering is a balance of **clear thinking, reliable systems, and thoughtful user experiences**.
 
-## What keeps me curious
+> *The question I keep coming back to: How can we make complex things feel simple?*
+
+## What I enjoy building
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">⚙️ Systems</h3>
-      <p align="center">APIs, queues, databases, and the engineering decisions that make software reliable.</p>
+      <h3 align="center">⚙️ Backend & systems</h3>
+      <p align="center">APIs, databases, authentication, queues, asynchronous workflows, and reliable services.</p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🧩 Building</h3>
-      <p align="center">Turning practical problems into useful products, from the first sketch to the working implementation.</p>
+      <h3 align="center">✦ Full-stack products</h3>
+      <p align="center">Useful applications that connect a clean interface to thoughtful backend design.</p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🌱 Exploring</h3>
-      <p align="center">Open source, cloud platforms, AI, and technologies that stretch the way I think.</p>
+      <h3 align="center">⌘ AI & cloud</h3>
+      <p align="center">Practical LLM-powered tools, cloud integrations, automation, and developer workflows.</p>
     </td>
   </tr>
 </table>
 
-## A few things I've been building
+## Selected work
+
+*A selection of products, experiments, and systems I've worked on — each one taught me something different.*
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <p><strong>01 · OPEN SOURCE / SYSTEMS</strong></p>
       <h3>🚦 <a href="https://github.com/nishanthn99/queueflux">QueueFlux</a></h3>
-      <p><em>Make background work easier to understand.</em></p>
-      <p>An open-source, self-hosted worker-queue platform exploring queue processing and virtual-time simulation.</p>
-      <p><sub>Java · Spring Boot · Docker</sub></p>
+      <p><em>What happens when background jobs meet unpredictable workloads?</em></p>
+      <p>An open-source, self-hosted simulation platform for experimenting with asynchronous job queues. Configure workloads, worker pools, priorities, retries, rate limits, failures, and outages — then inspect throughput, latency, backlog, and worker utilization in reproducible virtual time.</p>
+      <p><a href="https://github.com/nishanthn99/queueflux"><img src="https://img.shields.io/badge/Explore%20the%20project-C08A62?style=flat-square&logo=github&logoColor=white" alt="Explore QueueFlux" /></a></p>
+      <sub>Java · Spring Boot · React · TypeScript · PostgreSQL · Docker</sub>
     </td>
     <td width="50%" valign="top">
+      <p><strong>02 · SOCIAL IMPACT / FULL STACK</strong></p>
       <h3>💛 <a href="https://github.com/nishanthn99/CraveCure">CraveCure</a></h3>
-      <p><em>Technology with a human purpose.</em></p>
-      <p>A donation platform connecting people in need with donors, with NGOs helping coordinate requests and fulfilment.</p>
-      <p><sub>React · React Native · Node.js · PostgreSQL</sub></p>
+      <p><em>Making it easier to turn generosity into action.</em></p>
+      <p>A food donation and ordering platform designed to connect donors, NGOs, and people who need support. Includes authentication, donation dashboards, NGO discovery, ordering flows, feedback, and an AI-assisted help experience.</p>
+      <p><a href="https://cravecure-4b920.web.app/"><img src="https://img.shields.io/badge/View%20live%20demo-35463B?style=flat-square&logo=firebase&logoColor=white" alt="View CraveCure live demo" /></a> <a href="https://github.com/nishanthn99/CraveCure"><img src="https://img.shields.io/badge/Source%20code-C08A62?style=flat-square&logo=github&logoColor=white" alt="CraveCure source code" /></a></p>
+      <sub>React · Tailwind CSS · Firebase Auth · Firestore · OpenAI API</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✦ <a href="https://nishanthnportfolio.netlify.app/">My portfolio</a></h3>
-      <p><em>A little corner of the internet that's mine.</em></p>
-      <p>A home for selected projects, technologies I'm exploring, and the journey behind the code.</p>
-      <p><sub>Next.js · Frontend · Motion & interaction</sub></p>
+      <p><strong>03 · GENERATIVE AI / CLOUD</strong></p>
+      <h3>✍️ <a href="https://github.com/nishanthn99/GenAI-Grammer-Corrector">AI Grammar Corrector</a></h3>
+      <p><em>More than fixing a sentence — understand the change.</em></p>
+      <p>An AI-powered writing assistant that corrects grammar and explains what changed. The project explores model selection, user authentication, correction history, and cloud-service integration.</p>
+      <p><a href="https://github.com/nishanthn99/GenAI-Grammer-Corrector"><img src="https://img.shields.io/badge/Explore%20the%20project-C08A62?style=flat-square&logo=github&logoColor=white" alt="Explore AI Grammar Corrector" /></a></p>
+      <sub>Next.js 15 · TypeScript · Groq API · Llama · AWS Cognito · S3</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🔭 What's next?</h3>
-      <p><em>Always room for another rabbit hole.</em></p>
-      <p>Currently drawn to thoughtful backend systems, developer tooling, cloud-native engineering, and practical uses of generative AI.</p>
-      <p><sub>Learn · Experiment · Build · Repeat</sub></p>
+      <p><strong>04 · BACKEND / WEB APPLICATION</strong></p>
+      <h3>🎓 <a href="https://github.com/nishanthn99/Learning-Management-System">Learning Management System</a></h3>
+      <p><em>A structured learning space for educators and students.</em></p>
+      <p>A role-based learning platform where educators create courses, chapters, and pages while students enroll, complete lessons, and track progress. Includes educator reports, secure authentication, password hashing, and CSRF protection.</p>
+      <p><a href="https://learning-management-system-yjwk.onrender.com/"><img src="https://img.shields.io/badge/View%20application-35463B?style=flat-square&logo=render&logoColor=white" alt="View LMS application" /></a> <a href="https://github.com/nishanthn99/Learning-Management-System"><img src="https://img.shields.io/badge/Source%20code-C08A62?style=flat-square&logo=github&logoColor=white" alt="LMS source code" /></a></p>
+      <sub>Node.js · Express · EJS · Sequelize · PostgreSQL · Passport</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong>05 · AI AUTOMATION / BACKEND</strong></p>
+      <h3>📨 <a href="https://github.com/nishanthn99/ReachInboxAI">ReachInboxAI</a></h3>
+      <p><em>Bringing intelligence into repetitive email workflows.</em></p>
+      <p>An AI-assisted email automation prototype exploring Gmail OAuth, contextual email understanding, response drafting, and background processing with a Redis-backed queue.</p>
+      <p><a href="https://github.com/nishanthn99/ReachInboxAI"><img src="https://img.shields.io/badge/Explore%20the%20project-C08A62?style=flat-square&logo=github&logoColor=white" alt="Explore ReachInboxAI" /></a></p>
+      <sub>Node.js · TypeScript · Express · BullMQ · Redis · OpenAI · Google APIs</sub>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong>06 · PERSONAL / FRONTEND</strong></p>
+      <h3>✦ <a href="https://nishanthnportfolio.netlify.app/">Portfolio Website</a></h3>
+      <p><em>A digital home for my work and experiments.</em></p>
+      <p>My personal website, designed to bring together selected projects, skills, and the story behind them. I use it to experiment with visual direction, motion, and interaction.</p>
+      <p><a href="https://nishanthnportfolio.netlify.app/"><img src="https://img.shields.io/badge/Visit%20the%20website-35463B?style=flat-square&logo=netlify&logoColor=white" alt="Visit portfolio website" /></a> <a href="https://github.com/nishanthn99/portfolionext"><img src="https://img.shields.io/badge/Source%20code-C08A62?style=flat-square&logo=github&logoColor=white" alt="Portfolio source code" /></a></p>
+      <sub>Next.js 14 · React · Tailwind CSS · Motion</sub>
     </td>
   </tr>
 </table>
+
+## More builds & experiments
+
+Not every project starts out as a big product. Some are focused experiments that helped me learn a new concept, framework, or way of solving a problem.
+
+| Project | A quick look | Technologies |
+|:--|:--|:--|
+| [Travel Management System](https://github.com/nishanthn99/TravelManagementSystem) | Database-driven travel management mini project | Java · JDBC · MySQL |
+| [Android To-Do App](https://github.com/nishanthn99/TodoAppProject) | A simple task-list application for Android | Java · XML layouts |
+| [Alarm Clock Project](https://github.com/nishanthn99/AlarmClockProject) | Android prototype exploring alarms, services, broadcast receivers, and stopwatch functionality | Android · Java |
+| [Research Paper Summary](https://github.com/nishanthn99/Research-Paper-Summary-Project) | Prompt-driven analysis to extract insights from research articles | Generative AI · Prompt design |
+| [Jungle Run Game](https://github.com/nishanthn99/internfinalproject) | Game project developed during an internship | Game development |
 
 ## My toolkit
 
@@ -106,7 +148,7 @@ I'm especially interested in **backend engineering, full-stack development, clou
 
 ## Beyond the terminal
 
-I enjoy **photography, visual design, and exploring 3D** too. They give me a different way to think about composition, detail, and the experience someone has when they interact with something I've made.
+I enjoy **photography, visual design, and exploring 3D** too. They give me another way to think about composition, detail, and the experience someone has when they interact with something I've made.
 
 The best ideas often come from being curious outside your usual field.
 
@@ -123,14 +165,13 @@ The best ideas often come from being curious outside your usual field.
 
 </div>
 
-
 ---
 
 <div align="center">
 
-  ### Have something interesting to build?
+  ### Have an interesting problem or idea?
 
-  I'm open to **software development opportunities**, **open-source collaboration**, and conversations with people who enjoy solving meaningful problems.
+  I'm open to **software development opportunities**, **open-source collaboration**, and conversations with people who enjoy building useful things.
 
   <br />
 

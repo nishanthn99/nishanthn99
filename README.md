@@ -122,11 +122,13 @@ Not every project starts out as a big product. Some are focused experiments that
 
 | Project | A quick look | Technologies |
 |:--|:--|:--|
+| [My Tourist Guide](https://github.com/nishanthn99/MyTouristGuide) | Tourism platform concept for guide profiles, tour discovery, visitor bookings, and communication | React · Spring Boot · MySQL |
 | [Travel Management System](https://github.com/nishanthn99/TravelManagementSystem) | Database-driven travel management mini project | Java · JDBC · MySQL |
 | [Android To-Do App](https://github.com/nishanthn99/TodoAppProject) | A simple task-list application for Android | Java · XML layouts |
 | [Alarm Clock Project](https://github.com/nishanthn99/AlarmClockProject) | Android prototype exploring alarms, services, broadcast receivers, and stopwatch functionality | Android · Java |
 | [Research Paper Summary](https://github.com/nishanthn99/Research-Paper-Summary-Project) | Prompt-driven analysis to extract insights from research articles | Generative AI · Prompt design |
 | [Jungle Run Game](https://github.com/nishanthn99/internfinalproject) | Game project developed during an internship | Game development |
+| [Frontend Battle](https://github.com/nishanthn99/frontendbattle) | Frontend exercise focused on recreating a reference interface | Next.js · TypeScript · Tailwind CSS |
 
 ## My toolkit
 

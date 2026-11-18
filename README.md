@@ -1,83 +1,91 @@
-<!-- Profile Header Image (optional) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B;I'm+Nishanth+Sherugar;Passionate+Computer+Science+Engineer" alt="Typing SVG" />
-</p>
+<!--
+  GitHub Profile README
+  Clean, minimal layout with warm-neutral accents.
+-->
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=2800&pause=900&color=C08A62&center=true&vCenter=true&width=720&lines=Hello%2C+I'm+Nishanth+Sherugar;Computer+Science+Graduate;Software+Developer+%7C+Open+Source+Enthusiast" alt="Typing introduction" />
+
+  <p>
+    <em>Building thoughtful software, exploring new technologies, and learning by doing.</em>
+  </p>
+
+  <p>
+    <a href="https://nishanthnportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-C08A62?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/nishanth-sherugar/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-3B6478?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:nishanthsherugar@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-6F7772?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+  <img src="https://komarev.com/ghpvc/?username=nishanthn99&style=flat&color=C08A62&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
 
 ---
 
-## 👋 Hi there, I'm **Nishanth Sherugar**  
-🎓 Enthusiastic **Computer Science Graduate** | 💻 Passionate Developer | 🌐 Open Source Contributor
+## A little about me
+
+I'm a Computer Science graduate who enjoys turning ideas into useful, well-crafted software. I like exploring the space between backend engineering, full-stack development, cloud technologies, and AI.
+
+- Currently exploring **Generative AI, cloud technologies, and full-stack engineering**.
+- Interested in **software development opportunities** and meaningful engineering challenges.
+- Open to collaborating on **open-source projects** and practical products.
+- I enjoy understanding the theory behind the systems I build just as much as writing the code.
+
+## Technologies I work with
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,ts" alt="Java, Python, C, JavaScript and TypeScript" />
+
+**Frameworks & development**
+
+<img src="https://skillicons.dev/icons?i=spring,react,nextjs,nodejs,express,tailwind" alt="Spring, React, Next.js, Node.js, Express and Tailwind CSS" />
+
+**Cloud, databases & tools**
+
+<img src="https://skillicons.dev/icons?i=firebase,gcp,mysql,mongodb,postgres,git,github,docker,postman,vscode,eclipse" alt="Firebase, Google Cloud, databases, Git, GitHub, Docker, Postman, VS Code and Eclipse" />
+
+**AI & data**
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-C08A62?style=flat-square" alt="Artificial Intelligence" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-6F7772?style=flat-square" alt="Machine Learning" />
+
+</div>
+
+## Selected projects
+
+| Project | What it is | Built with |
+|:--|:--|:--|
+| **[QueueFlux](https://github.com/nishanthn99/queueflux)** | An open-source, self-hosted worker queue platform with simulation capabilities. | Java · Spring Boot · Docker |
+| **[CraveCure](https://github.com/nishanthn99/CraveCure)** | A donation platform connecting people in need with donors, with NGOs coordinating fulfilment. | React · React Native · Node.js · PostgreSQL |
+| **[My Tourist Guide](https://github.com/nishanthn99)** | A tour-guide and visitor management system concept. | React · Spring Boot · MySQL |
+| **[Portfolio](https://nishanthnportfolio.netlify.app/)** | My personal space on the web — projects, skills, and a little about me. | Next.js |
+
+## GitHub at a glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nishanthn99&show_icons=true&hide_border=true&bg_color=00000000&title_color=C08A62&icon_color=C08A62&text_color=8A8F8B&rank_icon=github" alt="Nishanth's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthn99&layout=compact&hide_border=true&bg_color=00000000&title_color=C08A62&text_color=8A8F8B" alt="Most used programming languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nishanthn99&hide_border=true&background=00000000&ring=C08A62&fire=C08A62&currStreakLabel=C08A62&sideLabels=8A8F8B&dates=8A8F8B" alt="GitHub contribution streak" />
+</div>
 
 ---
 
-### 🚀 About Me
+<div align="center">
 
-- 🔭 I’m currently diving into **cutting-edge technologies** like Generative AI, Full Stack Web Dev, and Cloud.
-- 🌱 I’m actively seeking **Software Development** job opportunities.
-- 👯 I’m open to collaborating on **Open Source** and impactful real-world projects.
-- 🤝 I love sharing knowledge and learning together — ask me anything tech!
-- ⚡ Fun fact: I’m pretty great at **theoretical CS concepts** 😂
+  **Have an idea, an interesting problem, or an opportunity to collaborate?**
 
----
+  <a href="https://nishanthnportfolio.netlify.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/nishanth-sherugar/">LinkedIn</a> ·
+  <a href="https://github.com/nishanthn99">GitHub</a> ·
+  <a href="mailto:nishanthsherugar@gmail.com">Email</a>
 
-### 🛠️ Tech Stack & Tools
+  <sub><em>“Good software is built with curiosity, care, and a willingness to keep learning.”</em></sub>
 
-#### 💻 Languages & Frameworks:
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
-
-#### ☁️ Cloud & DevOps:
-![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-#### 🧠 AI & ML:
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=scikit-learn&logoColor=orange)
-![Artificial Intelligence](https://img.shields.io/badge/-AI-272727?style=flat&logo=OpenAI&logoColor=white)
-
-#### 🧰 Tools & IDEs:
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
----
-
-### 📫 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanth-sherugar/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nishanthn99)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nishanthsherugar@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/nishanth_kshatriya/)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanthn99&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanthn99&layout=compact&theme=radical" height="180"/>
-</p>
-
----
-
-### ⚡ Fun Projects
-
-- 🧭 **My Tourist Guide** – Tour guide system using Spring Boot + React
-- 🌐 **CraveCure** – Health and nutrition platform with chatbot, feedback system
-- 📚 **LMS Platform** – Multi-role learning management system with analytics
-
----
-
-> 🚀 “I believe in learning by doing, building cool things, and sharing knowledge.”  
-> ✨ Let’s connect and grow together!
+</div>
